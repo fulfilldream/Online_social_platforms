@@ -1,0 +1,28 @@
+// sidebar
+$menuText: #333; // 左侧整体字体颜色
+$menuActiveText: #ffffff; // 选中的字体颜色
+$subMenuActiveText: #333; // 选中的一级菜单字体颜色
+
+$menuBg: #ffffff; // 左侧整体背景颜色
+$menuHover: #0275d8; // 左侧整体菜单背景触碰颜色
+$menuFontHover: #ffffff; // 左侧整体菜单字体触碰颜色
+
+$subMenuBg: #ffffff; // 左侧子菜单背景颜色
+$subMenuHover: #0275d8; // 左侧子菜单触碰背景颜色
+$subMenuFontHover: #ffffff; // 左侧子菜单字体触碰颜色
+
+$sideBarWidth: 210px;
+
+// 左侧菜单样式
+:export {
+  menuText: $menuText;
+  menuActiveText: $menuActiveText;
+  subMenuActiveText: $subMenuActiveText;
+  menuBg: $menuBg;
+  menuHover: $menuHover;
+  menuFontHover: $menuFontHover;
+  subMenuBg: $subMenuBg;
+  subMenuHover: $subMenuHover;
+  subMenuFontHover: $subMenuFontHover;
+  sideBarWidth: $sideBarWidth;
+}

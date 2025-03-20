@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/forum-sys/forum-sys.iml" filepath="$PROJECT_DIR$/forum-sys/forum-sys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/代码-Z336在线社交平台.iml" filepath="$PROJECT_DIR$/.idea/代码-Z336在线社交平台.iml" />
+    </modules>
+  </component>
+</project>
